@@ -1,2 +1,4 @@
-# File_Compressor
-GUI-based Huffman compression/decompression tool built with Python and Tkinter. Implements Huffman encoding from scratch using a min-heap, generates custom .huff files with optional header compression, and shows encoded preview, tree view, and compression ratio stats.
+Bit Squash – Huffman Compression Tool
+
+A GUI-based file compression and decompression tool built with Python and Tkinter, implementing Huffman Encoding from scratch using a min-heap (priority queue).
+This project demonstrates core data structures, tree construction, binary encoding, and file handling — all wrapped in an interactive desktop interface.
